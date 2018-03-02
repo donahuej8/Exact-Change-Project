@@ -11,8 +11,6 @@
 #include <vector>
 #include "Coin.h"
 
-#include <iostream>
-
 class ChangeProcessor {
 public:
     ChangeProcessor(); // default

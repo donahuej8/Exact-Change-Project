@@ -12,8 +12,6 @@
 #include "Coin.h"
 #include <sstream> // <string> is included
 
-#include <iostream>
-
 class CPTranslator {
 public:
     CPTranslator();

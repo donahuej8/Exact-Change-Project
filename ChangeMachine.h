@@ -11,8 +11,6 @@
 #include "ChangeProcessor.h"
 #include "CPTranslator.h"
 
-#include <iostream>
-
 class ChangeMachine {
 public:
     ChangeMachine(); // default processor
