@@ -115,7 +115,7 @@ int main(int argc, char** argv) {
         cout << "(1) Get Exact Change." << endl;
         cout << "(2) Print info on coin types." << endl;
         cout << "(3) Print info on previous calculations." << endl;
-        cout << "(4) Exit program.";
+        cout << "(4) Exit program." << endl;
         cout << "Enter your decision here: ";
         int decision;
         cin >> decision;
